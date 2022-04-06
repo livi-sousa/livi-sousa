@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Livi Sousa!
+- 👀 I’m interested in front end coding
+- 🌱 I’m currently learning .NET development
+- 👉 My [LinkedIn profile](https://www.linkedin.com/in/liviane-sousa-b11a81236/) 
